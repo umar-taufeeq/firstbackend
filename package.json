@@ -1,0 +1,19 @@
+{
+  "name": "firstbasicbackend",
+  "version": "1.0.0",
+  "description": "first basic app of backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "umar taufeeq",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
